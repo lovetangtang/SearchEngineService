@@ -1,0 +1,665 @@
+2019-07-10 15:12:37	{id:5,title:附件测试,content:
+
+ Contents
+
+
+介绍
+新增功能
+新增功能
+新增功能
+入门
+ 创建 Web 应用
+ 创建 Web API
+教程
+ 创建 Razor 页面 Web 应用
+  Razor 页面入门
+  添加模型
+  已搭建基架的 Razor 页面
+  SQL Server LocalDB
+  更新页面
+  添加搜索
+  添加新字段
+  添加验证
+ 创建实时 SignalR Web 应用
+ 使用 TypeScript 创建 SignalR web 应用
+ 创建 MVC Web 应用
+  入门
+  添加控制器
+  添加视图
+  添加模型
+  使用 SQL Server LocalDB
+  控制器方法和视图
+  添加搜索
+  添加新字段
+  添加验证 Contents
+
+
+介绍
+新增功能
+新增功能
+新增功能
+入门
+ 创建 Web 应用
+ 创建 Web API
+教程
+ 创建 Razor 页面 Web 应用
+  Razor 页面入门
+  添加模型
+  已搭建基架的 Razor 页面
+  SQL Server Loc...,date:2019/7/11 0:00:00,param:id=3}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 15:14:23	{id:5,title:新增功能,content:
+
+ Contents
+
+
+介绍
+新增功能
+新增功能
+新增功能
+入门
+ 创建 Web 应用
+ 创建 Web API
+教程
+ 创建 Razor 页面 Web 应用
+  Razor 页面入门
+  添加模型
+  已搭建基架的 Razor 页面
+  SQL Server LocalDB
+  更新页面
+  添加搜索
+  添加新字段
+  添加验证
+ 创建实时 SignalR Web 应用
+ 使用 TypeScript 创建 SignalR web 应用
+ 创建 MVC Web 应用
+  入门
+  添加控制器
+  添加视图
+  添加模型
+  使用 SQL Server LocalDB
+  控制器方法和视图
+  添加搜索
+  添加新字段
+  添加验证 Contents
+
+
+介绍
+新增功能
+新增功能
+新增功能
+入门
+ 创建 Web 应用
+ 创建 Web API
+教程
+ 创建 Razor 页面 Web 应用
+  Razor 页面入门
+  添加模型
+  已搭建基架的 Razor 页面
+  SQL Server Loc...,date:2019/7/11 0:00:00,param:id=3}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 15:16:06	{id:5,title:新增功能,content:
+
+ Contents
+
+
+介绍
+新增功能
+新增功能
+新增功能
+入门
+ 创建 Web 应用
+ 创建 Web API
+教程
+ 创建 Razor 页面 Web 应用
+  Razor 页面入门
+  添加模型
+  已搭建基架的 Razor 页面
+  SQL Server LocalDB
+  更新页面
+  添加搜索
+  添加新字段
+  添加验证
+ 创建实时 SignalR Web 应用
+ 使用 TypeScript 创建 SignalR web 应用
+ 创建 MVC Web 应用
+  入门
+  添加控制器
+  添加视图
+  添加模型
+  使用 SQL Server LocalDB
+  控制器方法和视图
+  添加搜索
+  添加新字段
+  添加验证 Contents
+
+
+介绍
+新增功能
+新增功能
+新增功能
+入门
+ 创建 Web 应用
+ 创建 Web API
+教程
+ 创建 Razor 页面 Web 应用
+  Razor 页面入门
+  添加模型
+  已搭建基架的 Razor 页面
+  SQL Server Loc...,date:2019/7/11 0:00:00,param:id=3}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 15:18:16	{id:5,title:新增功能,content:
+
+ Contents
+
+
+介绍
+新增功能
+新增功能
+新增功能
+入门
+ 创建 Web 应用
+ 创建 Web API
+教程
+ 创建 Razor 页面 Web 应用
+  Razor 页面入门
+  添加模型
+  已搭建基架的 Razor 页面
+  SQL Server LocalDB
+  更新页面
+  添加搜索
+  添加新字段
+  添加验证
+ 创建实时 SignalR Web 应用
+ 使用 TypeScript 创建 SignalR web 应用
+ 创建 MVC Web 应用
+  入门
+  添加控制器
+  添加视图
+  添加模型
+  使用 SQL Server LocalDB
+  控制器方法和视图
+  添加搜索
+  添加新字段
+  添加验证 Contents
+
+
+介绍
+新增功能
+新增功能
+新增功能
+入门
+ 创建 Web 应用
+ 创建 Web API
+教程
+ 创建 Razor 页面 Web 应用
+  Razor 页面入门
+  添加模型
+  已搭建基架的 Razor 页面
+  SQL Server Loc...,date:2019/7/11 0:00:00,param:id=3}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 15:19:46	{id:5,title:新增功能,content:
+
+ Contents
+
+
+介绍
+新增功能
+新增功能
+新增功能
+入门
+ 创建 Web 应用
+ 创建 Web API
+教程
+ 创建 Razor 页面 Web 应用
+  Razor 页面入门
+  添加模型
+  已搭建基架的 Razor 页面
+  SQL Server LocalDB
+  更新页面
+  添加搜索
+  添加新字段
+  添加验证
+ 创建实时 SignalR Web 应用
+ 使用 TypeScript 创建 SignalR web 应用
+ 创建 MVC Web 应用
+  入门
+  添加控制器
+  添加视图
+  添加模型
+  使用 SQL Server LocalDB
+  控制器方法和视图
+  添加搜索
+  添加新字段
+  添加验证 Contents
+
+
+介绍
+新增功能
+新增功能
+新增功能
+入门
+ 创建 Web 应用
+ 创建 Web API
+教程
+ 创建 Razor 页面 Web 应用
+  Razor 页面入门
+  添加模型
+  已搭建基架的 Razor 页面
+  SQL Server Loc...,date:2019/7/11 0:00:00,param:id=3}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 15:20:37	{id:6,title:T001,content:介绍
+新增功能
+新增功能
+新增功能
+入门
+ 创建 Web 应用
+ 创建 Web API
+教程
+ 创建 Razor 页面 Web 应用
+  Razor 页面入门
+  添加模型
+  已搭建基架的 Razor 页面
+  SQL Server LocalDB
+  更新页面
+  添加搜索
+  添加新字段
+  添加验证
+ 创建实时 SignalR Web 应用
+ 使用 TypeScript 创建 SignalR web 应用
+ 创建 MVC Web 应用
+  入门
+  添加控制器
+  添加视图
+  添加模型
+  使用 SQL Server LocalDB
+  控制器方法和视图
+  添加搜索
+  添加新字段
+  添加验证 Contents
+
+,date:2019/7/11 0:00:00,param:id=6}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 15:42:39	{id:6,title:T001,content:介绍
+新增功能
+新增功能
+新增功能
+入门
+ 创建 Web 应用
+ 创建 Web API
+教程
+ 创建 Razor 页面 Web 应用
+  Razor 页面入门
+  添加模型
+  已搭建基架的 Razor 页面
+  SQL Server LocalDB
+  更新页面
+  添加搜索
+  添加新字段
+  添加验证
+ 创建实时 SignalR Web 应用
+ 使用 TypeScript 创建 SignalR web 应用
+ 创建 MVC Web 应用
+  入门
+  添加控制器
+  添加视图
+  添加模型
+  使用 SQL Server LocalDB
+  控制器方法和视图
+  添加搜索
+  添加新字段
+  添加验证 Contents
+
+,date:2019/7/11 0:00:00,param:id=6}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 15:45:28	{id:6,title:控制器方法和视图,content:介绍
+新增功能
+新增功能
+新增功能
+入门
+ 创建 Web 应用
+ 创建 Web API
+教程
+ 创建 Razor 页面 Web 应用
+  Razor 页面入门
+  添加模型
+  已搭建基架的 Razor 页面
+  SQL Server LocalDB
+  更新页面
+  添加搜索
+  添加新字段
+  添加验证
+ 创建实时 SignalR Web 应用
+ 使用 TypeScript 创建 SignalR web 应用
+ 创建 MVC Web 应用
+  入门
+  添加控制器
+  添加视图
+  添加模型
+  使用 SQL Server LocalDB
+  控制器方法和视图
+  添加搜索
+  添加新字段
+  添加验证 Contents
+
+,date:2019/7/11 0:00:00,param:id=6}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 15:47:01	{id:6,title:控制器方法和视图,content:介绍
+新增功能
+新增功能
+新增功能
+入门
+ 创建 Web 应用
+ 创建 Web API
+教程
+ 创建 Razor 页面 Web 应用
+  Razor 页面入门
+  添加模型
+  已搭建基架的 Razor 页面
+  SQL Server LocalDB
+  更新页面
+  添加搜索
+  添加新字段
+  添加验证
+ 创建实时 SignalR Web 应用
+ 使用 TypeScript 创建 SignalR web 应用
+ 创建 MVC Web 应用
+  入门
+  添加控制器
+  添加视图
+  添加模型
+  使用 SQL Server LocalDB
+  控制器方法和视图
+  添加搜索
+  添加新字段
+  添加验证 Contents
+
+,date:2019/7/11 0:00:00,param:id=6}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 15:47:59	{id:6,title:控制器方法和视图,content:介绍
+新增功能
+新增功能
+新增功能
+入门
+ 创建 Web 应用
+ 创建 Web API
+教程
+ 创建 Razor 页面 Web 应用
+  Razor 页面入门
+  添加模型
+  已搭建基架的 Razor 页面
+  SQL Server LocalDB
+  更新页面
+  添加搜索
+  添加新字段
+  添加验证
+ 创建实时 SignalR Web 应用
+ 使用 TypeScript 创建 SignalR web 应用
+ 创建 MVC Web 应用
+  入门
+  添加控制器
+  添加视图
+  添加模型
+  使用 SQL Server LocalDB
+  控制器方法和视图
+  添加搜索
+  添加新字段
+  添加验证 Contents
+
+,date:2019/7/11 0:00:00,param:id=6}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 15:56:25	{id:6,title:控制器方法和视图,content:介绍
+新增功能
+新增功能
+新增功能
+入门
+ 创建 Web 应用
+ 创建 Web API
+教程
+ 创建 Razor 页面 Web 应用
+  Razor 页面入门
+  添加模型
+  已搭建基架的 Razor 页面
+  SQL Server LocalDB
+  更新页面
+  添加搜索
+  添加新字段
+  添加验证
+ 创建实时 SignalR Web 应用
+ 使用 TypeScript 创建 SignalR web 应用
+ 创建 MVC Web 应用
+  入门
+  添加控制器
+  添加视图
+  添加模型
+  使用 SQL Server LocalDB
+  控制器方法和视图
+  添加搜索
+  添加新字段
+  添加验证 Contents
+
+,date:2019/7/11 0:00:00,param:id=6}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 15:58:25	{id:7,title:001.docx,content:
+
+PAGE  0PAGE   \* MERGEFORMAT10借款合同                        （{{EnterpriseName}}）2019年借字第  GT{{Number}}号第一部分 通用条款借款人因资金需要，向贷款人申请借款，现双方按照有关法律规定，根据自愿、公平的原则，经协商一致，特订立本合同，以兹共同遵守。第一条  贷款发放1、本合同的签订并不构成贷款人对借款人的必然放款义务。贷款人放款前根据对该笔贷款业务进行独立的审查和评估的结果，进而作出是否发放贷款和发放贷款金额多少的决定。2、贷款发放的条件：下列条件之一未满足的，贷款人有权不发放本合同项下借款。（1）借款人系中国国籍，具有完全民事行为能力；或在中国大陆境内有效设立的可以独立对外融资并承担各种法律责任的企业、单位、机构等。（2）借款人具有持续稳定的还款来源；（3）借款人、担保人已根据贷款人要求提供有关文件、资料、单据并办妥相关手续，提供的信息与资料真实有效，未出现影响借款安全的重大不利或足以使贷款人对贷款安全性产生怀疑的情形；（4）借款合同已经...,date:2019/7/11 0:00:00,param:id=7}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 15:59:45	{id:7,title:001.docx,content:
+
+        
+        
+        
+        
+GZEE  OA.NET 
+
+       信息管理平台  
+        开发手册 
+        
+                        
+        
+        
+        
+                
+        
+        
+        
+GZEE  OA.NET 
+
+       信息管理平台  
+        开发手册 
+        
+                        
+        
+        
+        
+        
+                             目      录 
+第一章    前前言...........................................................................................................................,date:2019/7/11 0:00:00,param:id=7}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 16:01:23	{id:22,title:22.pdf,content:
+
+ Contents
+
+
+介绍
+新增功能
+新增功能
+新增功能
+入门
+ 创建 Web 应用
+ 创建 Web API
+教程
+ 创建 Razor 页面 Web 应用
+  Razor 页面入门
+  添加模型
+  已搭建基架的 Razor 页面
+  SQL Server LocalDB
+  更新页面
+  添加搜索
+  添加新字段
+  添加验证
+ 创建实时 SignalR Web 应用
+ 使用 TypeScript 创建 SignalR web 应用
+ 创建 MVC Web 应用
+  入门
+  添加控制器
+  添加视图
+  添加模型
+  使用 SQL Server LocalDB
+  控制器方法和视图
+  添加搜索
+  添加新字段
+  添加验证 Contents
+
+
+介绍
+新增功能
+新增功能
+新增功能
+入门
+ 创建 Web 应用
+ 创建 Web API
+教程
+ 创建 Razor 页面 Web 应用
+  Razor 页面入门
+  添加模型
+  已搭建基架的 Razor 页面
+  SQL Server Loc...,date:2019/7/11 0:00:00,param:id=22}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 16:04:04	{id:22,title:22.pdf,content:
+
+PAGE  0PAGE   \* MERGEFORMAT10借款合同                        （{{EnterpriseName}}）2019年借字第  GT{{Number}}号第一部分 通用条款借款人因资金需要，向贷款人申请借款，现双方按照有关法律规定，根据自愿、公平的原则，经协商一致，特订立本合同，以兹共同遵守。第一条  贷款发放1、本合同的签订并不构成贷款人对借款人的必然放款义务。贷款人放款前根据对该笔贷款业务进行独立的审查和评估的结果，进而作出是否发放贷款和发放贷款金额多少的决定。2、贷款发放的条件：下列条件之一未满足的，贷款人有权不发放本合同项下借款。（1）借款人系中国国籍，具有完全民事行为能力；或在中国大陆境内有效设立的可以独立对外融资并承担各种法律责任的企业、单位、机构等。（2）借款人具有持续稳定的还款来源；（3）借款人、担保人已根据贷款人要求提供有关文件、资料、单据并办妥相关手续，提供的信息与资料真实有效，未出现影响借款安全的重大不利或足以使贷款人对贷款安全性产生怀疑的情形；（4）借款合同已经...,date:2019/7/11 0:00:00,param:id=22}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 16:06:11	{id:003,title:003.pdf,content:
+
+Contents介绍新增功能新增功能新增功能入门 创建 Web 应用 创建 Web API教程 创建 Razor 页面 Web 应用  Razor 页面入门  添加模型  已搭建基架的 Razor 页面  SQL Server LocalDB  更新页面  添加搜索  添加新字段  添加验证 创建实时 SignalR Web 应用 使用 TypeScript 创建 SignalR web 应用 创建 MVC Web 应用  入门  添加控制器  添加视图  添加模型  使用 SQL Server LocalDB  控制器方法和视图  添加搜索  添加新字段  添加验证 Contents介绍新增功能新增功能新增功能入门 创建 Web 应用 创建 Web API教程 创建 Razor 页面 Web 应用  Razor 页面入门  添加模型  已搭建基架的 Razor 页面  SQL Server LocalDB  更新页面  添加搜索  添加新字段  添加验证 创建实时 SignalR...,date:2019/7/11 0:00:00,param:id=003}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 16:22:00	{id:003,title:003.pdf,content:
+
+Contents介绍新增功能新增功能新增功能入门 创建 Web 应用 创建 Web API教程 创建 Razor 页面 Web 应用  Razor 页面入门  添加模型  已搭建基架的 Razor 页面  SQL Server LocalDB  更新页面  添加搜索  添加新字段  添加验证 创建实时 SignalR Web 应用 使用 TypeScript 创建 SignalR web 应用 创建 MVC Web 应用  入门  添加控制器  添加视图  添加模型  使用 SQL Server LocalDB  控制器方法和视图  添加搜索  添加新字段  添加验证 Contents介绍新增功能新增功能新增功能入门 创建 Web 应用 创建 Web API教程 创建 Razor 页面 Web 应用  Razor 页面入门  添加模型  已搭建基架的 Razor 页面  SQL Server LocalDB  更新页面  添加搜索  添加新字段  添加验证 创建实时 SignalR...,date:2019/7/11 0:00:00,param:id=003}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 16:41:04	{id:001,title:添加新字段
+添加验证,content:
+
+Contents介绍新增功能新增功能新增功能入门 创建 Web 应用 创建 Web API教程 创建 Razor 页面 Web 应用  Razor 页面入门  添加模型  已搭建基架的 Razor 页面  SQL Server LocalDB  更新页面  添加搜索  添加新字段  添加验证 创建实时 SignalR Web 应用 使用 TypeScript 创建 SignalR web 应用 创建 MVC Web 应用  入门  添加控制器  添加视图  添加模型  使用 SQL Server LocalDB  控制器方法和视图  添加搜索  添加新字段  添加验证 Contents介绍新增功能新增功能新增功能入门 创建 Web 应用 创建 Web API教程 创建 Razor 页面 Web 应用  Razor 页面入门  添加模型  已搭建基架的 Razor 页面  SQL Server LocalDB  更新页面  添加搜索  添加新字段  添加验证 创建实时 SignalR...,date:2019/7/11 0:00:00,param:id=001}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 16:42:18	{id:002,title:NET Core简介,content:.NET Core是Microsoft最新的通用开发平台。它可以在不同的平台上工作，并且已经被重新设计，使.NET变得快速，灵活和现代。这是微软的主要贡献之一。 开发人员现在可以使用.NET构建Android，iOS，Linux，Mac和Windows应用程序，全部使用开放源代码。
+在本教程中，我们将介绍.NET Core和一些新的创新，包括.NET Framework更新，.NET标准和通用Windows平台更新等。
+.NET Core的特性以下是.NET Core的主要特性 - 
+1. 开源
+.NET Core是一个开源实现，使用MIT和Apache 2许可证发布。.NET Core是一个.NET基础项目，可在GitHub上找到。作为一个开放源代码项目，它促进了一个更加透明的开发过程，并促进一个积极和参与社区。
+2. 跨平台
+在.NET Core中实现的应用程序可以运行，其代码可以重复使用，而不需要管平台目标是什么。它目前支持三种主要的操作系统(OS)：
+WindowsLinuxMacOS
+受支持的操作系统(OS)，CPU和应用程序方案将随着时间的推移而增长，由微软，其他公司和个人...,date:2019/7/11 0:00:00,param:id=002}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 16:43:19	{id:002,title:跟投协议,content:
+
+PAGE  0PAGE   \* MERGEFORMAT10借款合同                        （{{EnterpriseName}}）2019年借字第  GT{{Number}}号第一部分 通用条款借款人因资金需要，向贷款人申请借款，现双方按照有关法律规定，根据自愿、公平的原则，经协商一致，特订立本合同，以兹共同遵守。第一条  贷款发放1、本合同的签订并不构成贷款人对借款人的必然放款义务。贷款人放款前根据对该笔贷款业务进行独立的审查和评估的结果，进而作出是否发放贷款和发放贷款金额多少的决定。2、贷款发放的条件：下列条件之一未满足的，贷款人有权不发放本合同项下借款。（1）借款人系中国国籍，具有完全民事行为能力；或在中国大陆境内有效设立的可以独立对外融资并承担各种法律责任的企业、单位、机构等。（2）借款人具有持续稳定的还款来源；（3）借款人、担保人已根据贷款人要求提供有关文件、资料、单据并办妥相关手续，提供的信息与资料真实有效，未出现影响借款安全的重大不利或足以使贷款人对贷款安全性产生怀疑的情形；（4）借款合同已经...,date:2019/7/11 0:00:00,param:id=002}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 16:58:15	{id:003,title:跟投协议,content:
+
+,date:2019/7/11 0:00:00,param:id=002}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 16:59:11	{id:004,title:跟投协议,content:
+
+,date:2019/7/11 0:00:00,param:id=002}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 16:59:15	{id:005,title:跟投协议,content:
+
+,date:2019/7/11 0:00:00,param:id=002}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 16:59:20	{id:006,title:跟投协议,content:
+
+,date:2019/7/11 0:00:00,param:id=002}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 16:59:22	{id:007,title:跟投协议,content:
+
+,date:2019/7/11 0:00:00,param:id=002}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 16:59:26	{id:008,title:跟投协议,content:
+
+,date:2019/7/11 0:00:00,param:id=002}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 16:59:30	{id:009,title:跟投协议,content:
+
+,date:2019/7/11 0:00:00,param:id=002}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 16:59:35	{id:010,title:跟投协议,content:
+
+,date:2019/7/11 0:00:00,param:id=002}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 16:59:38	{id:011,title:跟投协议,content:
+
+,date:2019/7/11 0:00:00,param:id=002}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 17:22:31	{id:012,title:跟投协议,content:
+
+,date:2019/7/12 0:00:00,param:id=002}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 17:22:56	{id:013,title:跟投协议,content:
+
+,date:2019/6/13 0:00:00,param:id=002}
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[请求地址]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+

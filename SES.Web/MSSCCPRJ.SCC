@@ -1,0 +1,6 @@
+SCC = This is a Source Code Control file.
+
+[SES.Web.csproj]
+SCC_Aux_Path = gzee.xicp.net:8877:iGzeeOA
+SCC_Project_Name = $/VS2013/SearchEngineService/SES.Web
+

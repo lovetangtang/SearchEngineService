@@ -1,0 +1,16 @@
+D:\WorkPanel\Web2013\SearchEngineService\SES.Web\bin\SES.Web.dll.config
+D:\WorkPanel\Web2013\SearchEngineService\SES.Web\bin\SES.Web.dll
+D:\WorkPanel\Web2013\SearchEngineService\SES.Web\bin\SES.Web.pdb
+D:\WorkPanel\Web2013\SearchEngineService\SES.Web\bin\SES.Utility.dll
+D:\WorkPanel\Web2013\SearchEngineService\SES.Web\bin\SES.Utility.pdb
+D:\WorkPanel\Web2013\SearchEngineService\SES.Web\obj\Debug\SES.Web.csprojResolveAssemblyReference.cache
+D:\WorkPanel\Web2013\SearchEngineService\SES.Web\obj\Debug\SES.Web.dll
+D:\WorkPanel\Web2013\SearchEngineService\SES.Web\obj\Debug\SES.Web.pdb
+E:\Program Files (x86)\Tencent\QQ\MyDocument\764053787\FileRecv\SearchEngineService\SearchEngineService\SES.Web\bin\SES.Web.dll.config
+E:\Program Files (x86)\Tencent\QQ\MyDocument\764053787\FileRecv\SearchEngineService\SearchEngineService\SES.Web\bin\SES.Web.dll
+E:\Program Files (x86)\Tencent\QQ\MyDocument\764053787\FileRecv\SearchEngineService\SearchEngineService\SES.Web\bin\SES.Web.pdb
+E:\Program Files (x86)\Tencent\QQ\MyDocument\764053787\FileRecv\SearchEngineService\SearchEngineService\SES.Web\bin\SES.Utility.dll
+E:\Program Files (x86)\Tencent\QQ\MyDocument\764053787\FileRecv\SearchEngineService\SearchEngineService\SES.Web\bin\SES.Utility.pdb
+E:\Program Files (x86)\Tencent\QQ\MyDocument\764053787\FileRecv\SearchEngineService\SearchEngineService\SES.Web\obj\Debug\SES.Web.csprojResolveAssemblyReference.cache
+E:\Program Files (x86)\Tencent\QQ\MyDocument\764053787\FileRecv\SearchEngineService\SearchEngineService\SES.Web\obj\Debug\SES.Web.dll
+E:\Program Files (x86)\Tencent\QQ\MyDocument\764053787\FileRecv\SearchEngineService\SearchEngineService\SES.Web\obj\Debug\SES.Web.pdb

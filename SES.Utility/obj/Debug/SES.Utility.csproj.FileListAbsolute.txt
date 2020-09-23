@@ -1,0 +1,17 @@
+D:\WorkPanel\Web2013\SearchEngineService\SES.Utility\bin\Debug\SES.Utility.dll
+D:\WorkPanel\Web2013\SearchEngineService\SES.Utility\bin\Debug\SES.Utility.pdb
+D:\WorkPanel\Web2013\SearchEngineService\SES.Utility\bin\Debug\Aspose.Cells.dll
+D:\WorkPanel\Web2013\SearchEngineService\SES.Utility\bin\Debug\Aspose.Pdf.dll
+D:\WorkPanel\Web2013\SearchEngineService\SES.Utility\bin\Debug\Aspose.Words.dll
+D:\WorkPanel\Web2013\SearchEngineService\SES.Utility\bin\Debug\Newtonsoft.Json.dll
+D:\WorkPanel\Web2013\SearchEngineService\SES.Utility\obj\Debug\SES.Utility.dll
+D:\WorkPanel\Web2013\SearchEngineService\SES.Utility\obj\Debug\SES.Utility.pdb
+E:\Program Files (x86)\Tencent\QQ\MyDocument\764053787\FileRecv\SearchEngineService\SearchEngineService\SES.Utility\bin\Debug\SES.Utility.dll
+E:\Program Files (x86)\Tencent\QQ\MyDocument\764053787\FileRecv\SearchEngineService\SearchEngineService\SES.Utility\bin\Debug\SES.Utility.pdb
+E:\Program Files (x86)\Tencent\QQ\MyDocument\764053787\FileRecv\SearchEngineService\SearchEngineService\SES.Utility\bin\Debug\Aspose.Cells.dll
+E:\Program Files (x86)\Tencent\QQ\MyDocument\764053787\FileRecv\SearchEngineService\SearchEngineService\SES.Utility\bin\Debug\Aspose.Pdf.dll
+E:\Program Files (x86)\Tencent\QQ\MyDocument\764053787\FileRecv\SearchEngineService\SearchEngineService\SES.Utility\bin\Debug\Aspose.Words.dll
+E:\Program Files (x86)\Tencent\QQ\MyDocument\764053787\FileRecv\SearchEngineService\SearchEngineService\SES.Utility\bin\Debug\Newtonsoft.Json.dll
+E:\Program Files (x86)\Tencent\QQ\MyDocument\764053787\FileRecv\SearchEngineService\SearchEngineService\SES.Utility\obj\Debug\SES.Utility.csprojResolveAssemblyReference.cache
+E:\Program Files (x86)\Tencent\QQ\MyDocument\764053787\FileRecv\SearchEngineService\SearchEngineService\SES.Utility\obj\Debug\SES.Utility.dll
+E:\Program Files (x86)\Tencent\QQ\MyDocument\764053787\FileRecv\SearchEngineService\SearchEngineService\SES.Utility\obj\Debug\SES.Utility.pdb

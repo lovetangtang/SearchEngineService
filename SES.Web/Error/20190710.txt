@@ -1,0 +1,64 @@
+2019-07-10 11:40:31	["secret","action","title","content","date","param","id","ALL_HTTP","ALL_RAW","APPL_MD_PATH","APPL_PHYSICAL_PATH","AUTH_TYPE","AUTH_USER","AUTH_PASSWORD","LOGON_USER","REMOTE_USER","CERT_COOKIE","CERT_FLAGS","CERT_ISSUER","CERT_KEYSIZE","CERT_SECRETKEYSIZE","CERT_SERIALNUMBER","CERT_SERVER_ISSUER","CERT_SERVER_SUBJECT","CERT_SUBJECT","CONTENT_LENGTH","CONTENT_TYPE","GATEWAY_INTERFACE","HTTPS","HTTPS_KEYSIZE","HTTPS_SECRETKEYSIZE","HTTPS_SERVER_ISSUER","HTTPS_SERVER_SUBJECT","INSTANCE_ID","INSTANCE_META_PATH","LOCAL_ADDR","PATH_INFO","PATH_TRANSLATED","QUERY_STRING","REMOTE_ADDR","REMOTE_HOST","REMOTE_PORT","REQUEST_METHOD","SCRIPT_NAME","SERVER_NAME","SERVER_PORT","SERVER_PORT_SECURE","SERVER_PROTOCOL","SERVER_SOFTWARE","URL","HTTP_CACHE_CONTROL","HTTP_CONNECTION","HTTP_CONTENT_LENGTH","HTTP_CONTENT_TYPE","HTTP_ACCEPT","HTTP_ACCEPT_ENCODING","HTTP_HOST","HTTP_USER_AGENT","HTTP_POSTMAN_TOKEN"]
+浏览器=Unknown;型态=Unknown;名称=Unknown;版本=0.0;使用平台=Unknown;是否为测试版=False;是否为16 位的环境=False;是否为32 位的环境=False;是否支持框架(frame) =False;是否支持cookie =True;是否支持activex controls =False	[错误页面]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 14:38:58	“C:\Users\Administrator\Desktop\MDM20190621.txt”文件不存在	[错误页面]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 14:44:56	读取“D:\Test\AsposeDemo\001.docx”文件内容失败:文件“D:\Test\AsposeDemo\001.docx”正由另一进程使用，因此该进程无法访问此文件。	[错误页面]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 14:46:45	读取“D:\Test\AsposeDemo\001.docx”文件内容失败:文件“D:\Test\AsposeDemo\001.docx”正由另一进程使用，因此该进程无法访问此文件。	[错误页面]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 15:01:08	读取“D:\Test\AsposeDemo\22.pdf”文件内容失败:容量小于当前大小。
+参数名: requiredLength	[错误页面]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 15:02:16	读取“D:\Test\AsposeDemo\22.pdf”文件内容失败:容量小于当前大小。
+参数名: requiredLength	[错误页面]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 15:07:17	读取“D:\Test\AsposeDemo\22.pdf”文件内容失败:容量小于当前大小。
+参数名: requiredLength	[错误页面]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 15:59:42	读取“D:\Test\AsposeDemo\001.docx”文件内容失败:文件“D:\Test\AsposeDemo\001.docx”正由另一进程使用，因此该进程无法访问此文件。	[错误页面]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 16:01:18	读取“D:\Test\AsposeDemo\001.docx”文件内容失败:文件“D:\Test\AsposeDemo\001.docx”正由另一进程使用，因此该进程无法访问此文件。	[错误页面]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 16:58:14	读取“D:\Test\AsposeDemo\001.docx”文件内容失败:文件“D:\Test\AsposeDemo\001.docx”正由另一进程使用，因此该进程无法访问此文件。	[错误页面]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 16:59:11	读取“D:\Test\AsposeDemo\001.docx”文件内容失败:文件“D:\Test\AsposeDemo\001.docx”正由另一进程使用，因此该进程无法访问此文件。	[错误页面]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 16:59:15	读取“D:\Test\AsposeDemo\001.docx”文件内容失败:文件“D:\Test\AsposeDemo\001.docx”正由另一进程使用，因此该进程无法访问此文件。	[错误页面]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 16:59:20	读取“D:\Test\AsposeDemo\001.docx”文件内容失败:文件“D:\Test\AsposeDemo\001.docx”正由另一进程使用，因此该进程无法访问此文件。	[错误页面]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 16:59:22	读取“D:\Test\AsposeDemo\001.docx”文件内容失败:文件“D:\Test\AsposeDemo\001.docx”正由另一进程使用，因此该进程无法访问此文件。	[错误页面]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 16:59:26	读取“D:\Test\AsposeDemo\001.docx”文件内容失败:文件“D:\Test\AsposeDemo\001.docx”正由另一进程使用，因此该进程无法访问此文件。	[错误页面]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 16:59:30	读取“D:\Test\AsposeDemo\001.docx”文件内容失败:文件“D:\Test\AsposeDemo\001.docx”正由另一进程使用，因此该进程无法访问此文件。	[错误页面]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 16:59:35	读取“D:\Test\AsposeDemo\001.docx”文件内容失败:文件“D:\Test\AsposeDemo\001.docx”正由另一进程使用，因此该进程无法访问此文件。	[错误页面]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 16:59:38	读取“D:\Test\AsposeDemo\001.docx”文件内容失败:文件“D:\Test\AsposeDemo\001.docx”正由另一进程使用，因此该进程无法访问此文件。	[错误页面]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 17:22:31	读取“D:\Test\AsposeDemo\001.docx”文件内容失败:文件“D:\Test\AsposeDemo\001.docx”正由另一进程使用，因此该进程无法访问此文件。	[错误页面]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
+2019-07-10 17:22:56	读取“D:\Test\AsposeDemo\001.docx”文件内容失败:文件“D:\Test\AsposeDemo\001.docx”正由另一进程使用，因此该进程无法访问此文件。	[错误页面]: /api.ashx?secret=ECC0C5AB-DBA8-46AF-9CEF-6A3DC84372A4&action=Commit
+
+
